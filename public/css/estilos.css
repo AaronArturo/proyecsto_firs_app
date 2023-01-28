@@ -1,0 +1,63 @@
+.jumbotronEncabezado{
+  background-color: #3647a8;
+  margin-bottom: 0;
+  border-radius: 0%;
+}
+
+.jumbotron{
+  margin-bottom: 0;
+  border-radius: 0%;
+}
+
+.textoEncabezado{
+  color: #f4f4f4;
+}
+
+.lead-head{
+  color: #f4f4f4;
+}
+
+.lead-footer{
+  color: #030202;
+}
+
+.perfil-img{
+  width: 18em;
+  height: 20em;
+}
+
+.marginTop{
+  margin-top: 4em;
+}
+
+.tecnologias-Img{
+  width: 15em;
+  height: 17em;
+}
+
+.redes-sociales{
+text-align: center;
+}
+
+.img-card{
+  width: 14em;
+  height: 17em;
+  padding: 1em;
+  margin:auto;
+}
+
+.img-card-flutter{
+  width: 17em;
+  height: 12em;
+  padding: 1em;
+  margin:auto;
+}
+
+.cartas{
+  width: 18rem;
+  height: 30rem;
+}
+
+.menuPersonal{
+  background-color: #1C7947;
+}
